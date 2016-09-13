@@ -6,5 +6,5 @@ module.exports = (app)=>{
 		console.log("Activate webhook");
 		console.log(req.body);
 		res.status(200).send();
-	})
-}
+	});
+};
