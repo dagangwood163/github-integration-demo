@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielstern/integration-test-repo.git"
+    "url": "git+https://github.com/dagangwood163/github-integration-demo.git"
   },
   "author": "DW",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielstern/integration-test-repo/issues"
+    "url": "https://github.com/dagangwood163/github-integration-demo/issues"
   },
-  "homepage": "https://github.com/danielstern/integration-test-repo#readme",
+  "homepage": "https://github.com/dagangwood163/github-integration-demo#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
